@@ -1,0 +1,8 @@
+name,nudge_status,payment_received,days_overdue
+Aisha,Delivered,Yes,2
+Rahul,Delivered,Yes,1
+Priya,Delivered,No,8
+Vikram,Bounced,No,12
+Neha,Delivered,Yes,3
+Karan,Ignored,No,15
+Simran,Delivered,Yes,2
